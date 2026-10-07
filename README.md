@@ -8,7 +8,6 @@
 
 <br/>
 
-![Localização](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Ivoti%2C%20RS%20%E2%80%94%20Brasil-2563eb?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-34d399?style=for-the-badge)
 ![Idiomas](https://img.shields.io/badge/Idiomas-PT%20%C2%B7%20EN%20%C2%B7%20ES-0f172a?style=for-the-badge)
 
