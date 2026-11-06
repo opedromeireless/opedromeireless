@@ -21,7 +21,7 @@
 
 ## 🧭 Sobre mim
 
-Tenho 18 anos e já coloquei software em produção em time de verdade, com sprint, code review e deploy. Sou desenvolvedor Full Stack, estudante de Sistemas de Informação na **Unisinos** e técnico em Informática pelo **Instituto Ivoti**.
+Sou desenvolvedor Full Stack, estudante de Sistemas de Informação na **Unisinos** e técnico em Informática pelo **Instituto Ivoti**.
 
 Meu trabalho vai do entendimento do requisito até a entrega: modelagem de banco, API, interface e publicação. Fora do trabalho, construo produtos próprios para transformar conhecimento técnico em coisa que as pessoas usam. Antes de programar profissionalmente, presidi o Grêmio Estudantil do Instituto Ivoti por um ano, liderando 20 pessoas e negociando propostas com a direção. Foi ali que aprendi a parte do trabalho que não é código: comunicação clara, responsabilidade sobre resultado e capacidade de levar um problema até a solução.
 
