@@ -25,8 +25,6 @@ Sou desenvolvedor Full Stack, estudante de Sistemas de Informação na **Unisino
 
 Meu trabalho vai do entendimento do requisito até a entrega: modelagem de banco, API, interface e publicação. Fora do trabalho, construo produtos próprios para transformar conhecimento técnico em coisa que as pessoas usam. Antes de programar profissionalmente, presidi o Grêmio Estudantil do Instituto Ivoti por um ano, liderando 20 pessoas e negociando propostas com a direção. Foi ali que aprendi a parte do trabalho que não é código: comunicação clara, responsabilidade sobre resultado e capacidade de levar um problema até a solução.
 
-Uso IA no meu processo de desenvolvimento, mas com um princípio fixo: **entender, revisar e saber explicar tudo o que eu entrego.**
-
 <table>
 <tr>
 <td>
